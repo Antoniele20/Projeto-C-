@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\bin\Debug\net10.0\aula.exe
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\bin\Debug\net10.0\aula.deps.json
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\bin\Debug\net10.0\aula.runtimeconfig.json
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\bin\Debug\net10.0\aula.dll
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\bin\Debug\net10.0\aula.pdb
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\obj\Debug\net10.0\aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\obj\Debug\net10.0\aula.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\obj\Debug\net10.0\aula.AssemblyInfo.cs
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\obj\Debug\net10.0\aula.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\obj\Debug\net10.0\aula.dll
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\obj\Debug\net10.0\refint\aula.dll
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\obj\Debug\net10.0\aula.pdb
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\obj\Debug\net10.0\aula.genruntimeconfig.cache
+C:\Users\USER\Desktop\Projeto C#\Aula3\aula\obj\Debug\net10.0\ref\aula.dll
